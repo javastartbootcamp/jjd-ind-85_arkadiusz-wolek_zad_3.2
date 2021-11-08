@@ -8,8 +8,6 @@ Każda zmienna musi mieć określony …, np. int, albo String.
 
 Jeżeli deklarację zmiennej poprzedzimy słowem final, to …
 
-W klasie mogą się znajdować …, … i …
-
 … są wywoływane przez operator … i służą do tworzenia nowych obiektów.
 
 Jeśli w klasie zdefiniowano chociaż jeden … to kompilator nie wygeneruje dla nas … domyślnego.
